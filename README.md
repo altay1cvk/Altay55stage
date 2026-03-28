@@ -4,7 +4,7 @@
 
 # 👋 Altay CEVIK
 **Ingénieur IoT Bac+5 | eHosp.fr | MedAssist AI RAG | YOLOv8 | PointNet++**  
-*Master 2 IoT UFC Montbéliard | Disponible Alternance Backend/IA Sept. 2026*
+*Master 1 IoT UFR STGI Montbéliard | Disponible Alternance Backend/IA Sept. 2026*
 
 [![Altay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altay55stage&show_icons=true&theme=radical&count_private=true)](https://github.com/Altay55stage)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altay55stage&layout=compact&theme=radical)](https://github.com/Altay55stage)
@@ -238,11 +238,11 @@ MQTT Publisher (downstream systems)
 
 ```
 🎯 Master 2 IoT (Bac+5)
-   UFC Montbéliard | 2025-2026
+   UFR STGI Montbéliard | 2026-2027
    Spécialisations : IA Embarquée, Systèmes Distribués, Cloud Computing
 
 🎯 Master 1 IoT (Bac+4)
-   UFC Montbéliard | 2024-2025
+   UFR STGI Montbéliard | 2025-2026
    Résultat : Excellent
 
 🎯 BUT IoT (Bac+3)
@@ -272,9 +272,9 @@ MQTT Publisher (downstream systems)
 ## 🔗 Ressources & Liens
 
 **GitHub** : https://github.com/Altay55stage  
-**eHosp.fr** : https://github.com/Altay55stage/ehosp  
+**eHosp.fr** : https://www.ehosp.fr/
 **MedAssist AI** : https://github.com/Altay55stage/medassist-ai  
-**CV complet** : [télécharger CV_Altay_CEVIK_IOT.pdf]  
+**CV complet** : https://drive.google.com/file/d/1jMpSuHpLIjxgUr_2O4p4KF5zolZrFAYZ/view?usp=sharing
 
 ---
 
@@ -293,9 +293,9 @@ MQTT Publisher (downstream systems)
 
 📅 **Alternance** : Septembre 2026 - Août 2027 (12 mois)  
 📍 **Localisation** : Audincourt (frontalier Suisse)  
-   - 30min → Belfort
+   - 15min → Belfort
    - 1h30 → Genève
-   - 1h30 → Montbéliard
+   - 5min → Montbéliard
 
 **Secteurs recherchés** :
 ✅ HealthTech / eHealth  
@@ -313,7 +313,7 @@ MQTT Publisher (downstream systems)
 📱 Téléphone    : +33 7 83 65 68 37
 💼 LinkedIn     : https://linkedin.com/in/altay-cevik
 🐙 GitHub       : https://github.com/Altay55stage
-📍 Localisation : Audincourt, Bourgogne, France
+📍 Localisation : Doubs, Bourgogne, France
 ```
 
 ---
